@@ -4,3 +4,4 @@ colour-science==0.4.1
 imageio==2.35.1
 matplotlib==3.7.5
 plotly==6.1.1
+streamlit
